@@ -33,9 +33,9 @@ function digital_root(n) {
 
 ## Experience
 
-6-years of Perl-programming
-5-years of C# programming
-5-years of PHP-programming
+6-years of Perl-programming  
+5-years of C# programming  
+5-years of PHP-programming  
 Unfortunately all my projects since 2000 are closed by now...
 
 ## Education
