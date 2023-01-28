@@ -2,7 +2,9 @@
 Scrum is a popular framework that facilitates collaboration between teams while they are working on complex projects and products.
 
 ## Scrum Beat
-Scrum moves quickly, with sprints that typically run one to four weeks and have set beginning and ending dates.
+Sprint - it runs from one to four weeks and have set beginning and ending dates.
+
+>The beat of the Scrum is sprint, typically it runs from one to four weeks and have set beginning and ending dates
 
 ## Scrum Roles
 * The product owner
@@ -15,13 +17,16 @@ Scrum moves quickly, with sprints that typically run one to four weeks and have 
 >The development team makes the decisions regarding the work to be completed, produces increments, and exhibits group accountability.
 
 ## Common Metrics
-Teams in Scrum track their progress using velocity, or the sum of all story points finished in a sprint.
 
-## Change Philosophy
+* Sprint Goal Success
+>By defining sprint goals and then measuring how many sprints met the goal, you can get a qualitative assessment of a scrum team’s work.
 
-* Adaptation
-* Transparency
-* Inspection
+* Escaped Defects and Defect Density
+>Escaped defects is a crucial metric that shows how many bugs were experienced by users in production
+>Defect density is also worth watching—it measures number of defects per software size, for example per lines of code
+
+* Team Velocity
+>Velocity measures how many user stories were completed by the team, on average, in previous sprints. It assists in estimating how much work the team is able to accomplish in future sprints.
 
 ## How Does Scrum Work?
 
