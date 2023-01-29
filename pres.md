@@ -34,7 +34,7 @@ Step 1: Product Backlog
 >The product backlog is used to draw up a list of tasks that a team must complete to successfully achieve the stakeholders’ goals. 
 
 Step 2: Sprint Planning
->Selected tasks from the product backlog are chosen for teams to focus and work on, then ultimately be delivered during the sprint.
+>Selected tasks from the product backlog are chosen for teams to focus and work on and to be delivered during the sprint.
 
 Step 3: Sprint Backlog
 >Tasks discussed in the previous phase are added into the sprint backlog. 
