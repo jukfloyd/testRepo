@@ -14,7 +14,7 @@ Sprint - it runs from one to four weeks and have set beginning and ending dates.
 >The scrum master helps the team in maintaining its commitment to the scrum principles.
 
 * The development team
->The development team makes the decisions regarding the work to be completed, produces increments, and exhibits group accountability.
+>The development team makes the decisions regarding the work to be completed, produces increments, and shows group accountability.
 
 ## Common Metrics
 
