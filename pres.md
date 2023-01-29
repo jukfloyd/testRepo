@@ -4,7 +4,7 @@ Scrum is a popular framework that facilitates collaboration between teams while 
 ## Scrum Beat
 Sprint - it runs from one to four weeks and have set beginning and ending dates.
 
->The beat of the Scrum is sprint, typically it runs from one to four weeks and have set beginning and ending dates
+>The beat of the Scrum is the Sprint, typically it runs from one to four weeks and have set beginning and ending dates
 
 ## Scrum Roles
 * The product owner
