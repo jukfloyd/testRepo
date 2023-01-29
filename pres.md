@@ -61,11 +61,11 @@ Step 6: Increment
 
 1. When requirements are not clearly defined
 
->Many times, a client has a general idea of the product to develop, but he does not have clear or well-defined details of how it must be. This has several consequences.
+>Many times, a client has a general idea of the product to develop, and he does not have clear details of how it must be. This has several consequences.
 
 >One of them is that it is practically impossible to make an estimation of the time and costs for thee Fixed Price project. Secondly, if the requirements are not defined, it is expected that, there will be a large number of changes during the development, which would make the use of a more traditional methodology more difficult.
 
->This is when the use of Scrum is inevitable and more than convenient because of its flexible and adaptable nature throughout the entire process.
+>This is when the use of Scrum is more than convenient because it is flexible and adaptable throughout the entire process.
 
 2. When the probability of changes during the development is high
 
@@ -73,12 +73,12 @@ Step 6: Increment
 
 3. When where is a need to test the solution
 
->This point is very related to the previous ones. In the construction of a new product, an MVP (minimum viable product) can be required in order to test certain characteristics in the market that you may want to verify, and that allows it to be iterated with the results obtained from that test.
-As a result of this process, some changes are generated that have an impact on what has already been developed, or new ideas and features to be developed are generated.
+>In the construction of a new product, an MVP (minimum viable product) can be required in order to test certain characteristics in the market that you may want to verify. 
+>As a result of this process, some changes are generated that have an impact on what has already been developed.
 
 4. When the product owner is fully available
 
->The participation, dedication, and total availability of the PO in the project is fundamental for the correct use of Scrum.
+>The total availability of the PO in the project is fundamental for the correct use of Scrum.
 The PO is the owner of the backlog, so it is he or she who prioritizes the User Stories and helps the team to refine the definitions.
 If a client does not have a PO available for the project, it is very difficult for the implementation of this methodology to be successful.
 
