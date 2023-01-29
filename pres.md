@@ -93,8 +93,6 @@ If a client does not have a PO available for the project, it is very difficult f
 
 >Finally, it is important to understand whether or not the client has experience with Scrum projects and if they are open to using this type of methodology.
 
->It is very common that one of the biggest concerns is how much it costs and how long it will take to develop the product. Even though Agile methodologies such as Scrum make it possible to have a plan, a north, this is very difficult to determine in advance given the very nature of this methodology that accepts change at all times.
-
->In order to counteract this, it is essential that trust is established between both parties so that the client feels that the team is doing its best to achieve the objectives.
+>It is essential that trust is established between both parties so that the client feels that the team is doing its best to achieve the objectives.
 
 >That's all for this topic, thank you for listening, buy!
