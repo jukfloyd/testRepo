@@ -69,7 +69,7 @@ Step 6: Increment
 
 2. When the probability of changes during the development is high
 
->While in software development, the changes of requirements can be a kind of common currency with specific processes for managing them. There are times when, despite the fact that the requirements are correctly defined, adaptations are likely to arise as the project progresses. This situation can occur in projects where, for example, there are technological changes or in the business context.
+>There are times when, despite the fact that the requirements are correctly defined, adaptations are likely to arise as the project progresses.
 
 3. When where is a need to test the solution
 
