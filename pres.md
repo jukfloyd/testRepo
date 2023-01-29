@@ -78,7 +78,7 @@ As a result of this process, some changes are generated that have an impact on w
 
 4. When the product owner is fully available
 
->The participation, dedication, and total availability of the PO in the project is a fundamental for the correct use of Scrum.
+>The participation, dedication, and total availability of the PO in the project is fundamental for the correct use of Scrum.
 The PO is the owner of the backlog, so it is he or she who prioritizes the User Stories and helps the team to refine the definitions.
 If a client does not have a PO available for the project, it is very difficult for the implementation of this methodology to be successful.
 
