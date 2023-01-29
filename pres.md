@@ -22,7 +22,7 @@ Sprint - it runs from one to four weeks and have set beginning and ending dates.
 >By defining sprint goals and then measuring how many sprints met the goal, you can get a qualitative assessment of a scrum team’s work.
 
 * Escaped Defects and Defect Density
->Escaped defects is a crucial metric that shows how many bugs were experienced by users in production
+>Escaped defects is a crucial metric that shows how many bugs were experienced by users in production. 
 >Defect density is also worth watching—it measures number of defects per software size, for example per lines of code
 
 * Team Velocity
