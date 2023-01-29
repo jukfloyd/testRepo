@@ -61,7 +61,7 @@ Step 6: Increment
 
 1. When requirements are not clearly defined
 
->Many times, a client has a general idea of the product to develop, but he does not have clear or well-defined details of how it must be. Not having a clear definition of the requirements has several consequences.
+>Many times, a client has a general idea of the product to develop, but he does not have clear or well-defined details of how it must be. This has several consequences.
 
 >One of them is that it is practically impossible to make an estimation of the time and costs that would allow us to approach the project as a Fixed Price. Secondly, if the requirements are not defined, it is expected that, there will be a large number of changes during the development, which would make the use of a more traditional methodology more difficult.
 
