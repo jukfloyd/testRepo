@@ -11,7 +11,7 @@ Sprint - it runs from one to four weeks and have set beginning and ending dates.
 >The product owner helps the development team prioritize their work, controls the product backlog, and speaks out for the client's interests.
 
 * The scrum master
->The scrum master aids the team in maintaining its commitment to the scrum principles.
+>The scrum master helps the team in maintaining its commitment to the scrum principles.
 
 * The development team
 >The development team makes the decisions regarding the work to be completed, produces increments, and exhibits group accountability.
